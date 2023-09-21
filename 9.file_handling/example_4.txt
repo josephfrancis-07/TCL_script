@@ -1,0 +1,2 @@
+THis is new text
+Appending new line
